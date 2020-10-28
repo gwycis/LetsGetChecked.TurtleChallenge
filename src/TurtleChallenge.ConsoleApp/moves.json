@@ -1,0 +1,9 @@
+﻿{
+  "Sequences": [
+    [ "Go", "Rotate", "Go", "Go", "Go", "Go", "Rotate", "Go", "Go" ],
+    [ "Go", "Rotate", "Go", "Go", "Go", "Rotate", "Go" ],
+    [ "Rotate", "Rotate", "Go", "Rotate", "Rotate", "Rotate", "Go", "Go", "Go", "Go" ],
+    [ "Go", "Rotate", "Go", "Go", "Go", "Go", "Rotate", "Go" ],
+    [ "Go", "Go" ]
+  ]
+}

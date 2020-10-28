@@ -1,0 +1,33 @@
+﻿{
+    "Board": {
+        "Size": {
+            "Rows": 4,
+            "Columns": 5
+        },
+        "ExitPoint": {
+            "X": 4,
+            "Y": 2
+        },
+        "Mines": [
+            {
+                "X": 1,
+                "Y": 1
+            },
+            {
+                "X": 3,
+                "Y": 1
+            },
+            {
+                "X": 3,
+                "Y": 3
+            }
+        ]
+    },
+    "Turtle": {
+        "StartingPosition": {
+            "X": 0,
+            "Y": 1
+        },
+        "Direction": "North" 
+    } 
+}

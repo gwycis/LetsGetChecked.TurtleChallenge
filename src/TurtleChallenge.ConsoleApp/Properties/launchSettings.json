@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TurtleChallenge.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "game-settings moves"
+    }
+  }
+}
